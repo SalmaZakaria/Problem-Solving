@@ -4,3 +4,4 @@ This Repository Contains my submission to different Problems on different Platfo
 leetcode problem | solution | Difficulty	
 :--------------------------------------------:|:--------------------------:|:--------------------------:
 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [c++](Medium/AddTwoNumbers.cpp)| Medium
+[Candies](https://www.hackerrank.com/challenges/candies/problem) | [c++](Medium/Candies.cpp)| Medium
