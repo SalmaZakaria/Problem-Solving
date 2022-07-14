@@ -1,8 +1,12 @@
 # Algorithms and Data Structures
 
 This Repository Contains my submission to different Problems on different Platforms specially HackerRanck & LeetCode in different topics in both Data Structures and Algorithms
-Problem | Solution | Difficulty	
+Problem | Solution | Difficulty
 :--------------------------------------------:|:--------------------------:|:--------------------------:
+[Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [c++](AddTwoIntegers.cpp) | Easy
+[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [c++](Root Equals Sum of Children.cpp) | Easy
+[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [c++](Running Sum of 1d Array.cpp) | Easy
+[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [c++](Richest Customer Wealth.cpp) | Easy
 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [c++](Medium/AddTwoNumbers.cpp) | Medium
 [Candies](https://www.hackerrank.com/challenges/candies/problem) | [c++](Medium/Candies.cpp) | Medium
 [Max Min](https://www.hackerrank.com/challenges/angry-children/problem) | [c++](Medium/MaxMin.cpp) | Medium
