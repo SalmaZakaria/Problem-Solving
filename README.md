@@ -4,7 +4,7 @@ This Repository Contains my submission to different Problems on different Platfo
 Problem | Solution | Difficulty
 :--------------------------------------------:|:--------------------------:|:--------------------------:
 [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [c++](Easy/AddTwoIntegers.cpp) | Easy
-[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [c++](Easy/Root Equals Sum of Children.cpp) | Easy
+[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [c++](Easy/RootEqualsSumofChildren.cpp) | Easy
 [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [c++](Easy/Running Sum of 1d Array.cpp) | Easy
 [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [c++](Easy/Richest Customer Wealth.cpp) | Easy
 [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=false)/) | [c++](Easy/Compare the Triplets.cpp) | Easy
